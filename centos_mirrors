@@ -162,7 +162,6 @@ http://centos.mirror.it2go.eu/
 http://mirror.kinamo.be/centos/
 http://centos.mirror.nucleus.be/
 http://mirror.unix-solutions.be/centos/
-http://centos.mirror.ba/
 http://mirrors.daticum.com/centos/
 http://mirror.host.ag/centos/
 http://mirrors.neterra.net/centos/
@@ -440,6 +439,7 @@ http://mirror.sov.uk.goscomb.net/centos/
 http://mozart.ee.ic.ac.uk/CentOS/
 http://mirrors.melbourne.co.uk/sites/ftp.centos.org/centos/
 http://mirror.netweaver.uk/centos/
+http://centos.mirrors.nublue.co.uk/
 http://mirror.ox.ac.uk/sites/mirror.centos.org/
 http://centos.mirroring.pulsant.co.uk/
 http://centos.serverspace.co.uk/centos/
@@ -495,6 +495,7 @@ http://mirror.globo.com/centos/
 http://mirror.ci.ifes.edu.br/centos/
 http://ftp.unicamp.br/pub/centos/
 http://mirror.ufscar.br/centos/
+http://mirror.ufam.edu.br/centos/
 http://centos.ufes.br/
 http://centos.usetelecom.com.br/centos/
 http://centos.xpg.com.br/
