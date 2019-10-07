@@ -441,7 +441,6 @@ http://centos.interhost.net.il/
 http://mirror.isoc.org.il/pub/centos/
 http://centos.spd.co.il/
 http://centos.kw.zain.com/
-http://mirror.squ.edu.om/centos/
 http://mirrors.isu.net.sa/pub/centos/
 http://mirrors.securehost.com/centos/
 http://mirror.cenac.ipn.mx/centos/
@@ -552,6 +551,7 @@ http://mirror.grid.uchicago.edu/pub/linux/centos/
 http://bay.uchicago.edu/centos/
 http://ftpmirror.your.org/pub/centos/
 http://ftp.ussg.iu.edu/linux/centos/
+http://mirrors.seas.harvard.edu/centos/
 http://mirrors.mit.edu/centos/
 http://mirrors.tripadvisor.com/centos/
 http://mirror.umd.edu/centos/
