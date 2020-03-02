@@ -8,7 +8,6 @@ http://mirror.ufs.ac.za/centos/
 http://mirror.wiru.co.za/centos/
 http://mirror.aptus.co.tz/pub/centos/
 http://fedora.mirror.tn/pub/centos/
-http://mirror.ucu.ac.ug/centos/
 http://mirror.myfahim.com/centos/
 http://mirror.dhakacom.com/centos/
 http://mirror.vanehost.com/centos/
@@ -29,6 +28,7 @@ http://mirrors.tuna.tsinghua.edu.cn/centos/
 http://mirrors.ustc.edu.cn/centos/
 http://centos.01link.hk/
 http://centos.communilink.net/
+http://mirror.hkt.cc/centos/
 http://hk.mirrors.thegigabit.com/centos/
 http://mirror.hostlink.com.hk/centos/
 http://centos.uhost.hk/
@@ -81,6 +81,7 @@ http://mirror.upsi.edu.my/centos/
 http://mirror.titansi.com.my/centos/
 http://ossm.utm.my/centos/
 http://mirror.datacenter.mn/centos/
+http://repo.inara.pk/centos/
 http://repo.isra.edu.pk/centos/
 http://mirror.pregi.net/centos/
 http://mirror.rise.ph/centos/
@@ -95,13 +96,13 @@ http://data.aonenetworks.kr/os/CentOS/
 http://mirror.kakao.com/centos/
 http://mirror.navercorp.com/centos/
 http://mirror01.idc.hinet.net/centos/
+http://ftp.stu.edu.tw/Linux/CentOS/
 http://centos.mirror.hostinginside.com/
 http://ftp.isu.edu.tw/pub/Linux/CentOS/
 http://ftp.ksu.edu.tw/pub/CentOS/
 http://centos.cs.nctu.edu.tw/
 http://ftp.tc.edu.tw/Linux/CentOS/
 http://mirrors.bangmod.cloud/centos/
-http://mirrors.bestthaihost.com/centos/
 http://mirrors.hosting.in.th/centos/
 http://mirror1.ku.ac.th/centos/
 http://mirror.kku.ac.th/centos/
@@ -138,7 +139,6 @@ http://centos.mirror.colo-serv.net/
 http://mirror.dst.ca/centos/
 http://centos.mirror.iweb.ca/
 http://centos.mirror.netelligent.ca/centos/
-http://centos.bhs.mirrors.ovh.net/ftp.centos.org/
 http://centos.mirror.ca.planethoster.net/
 http://mirror.centos.serverforge.org/
 http://centos.mirror.vexxhost.com/
@@ -178,7 +178,6 @@ http://mirror.it4i.cz/centos/
 http://mirror.slu.cz/centos/
 http://mirror.karneval.cz/pub/centos/
 http://mirrors.dotsrc.org/centos/
-http://mirror.iodc.dk/centos/
 http://mirror.netsite.dk/centos/
 http://mirror.one.com/centos/
 http://mirror.fysik.dtu.dk/linux/centos/
@@ -193,7 +192,6 @@ http://centos.mirrors.proxad.net/
 http://mirror.hostup.org/centos/
 http://mirrors.ircam.fr/pub/CentOS/
 http://miroir.univ-lorraine.fr/centos/
-http://centos.mirrors.ovh.net/ftp.centos.org/
 http://centos.mirror.fr.planethoster.net/
 http://mirror.plusserver.com/centos/
 http://centos.crazyfrogs.org/
@@ -231,6 +229,7 @@ http://ftp.antilo.de/pub/linux/centos/
 http://centos.mirror.net-d-sign.de/
 http://mirror.netcologne.de/centos/
 http://centosmirror.netcup.net/centos/
+http://mirror.netzwerge.de/centos/
 http://ftp.plusline.net/centos/
 http://mirror.plustech.de/centos/
 http://centos.mirrors.psw.services/centos/
@@ -256,8 +255,6 @@ http://www.fedora.is/CentOS/
 http://ftp.heanet.ie/pub/centos/
 http://mirror.strencom.net/centos/
 http://centos.mirror.garr.it/centos/
-http://it.centos.contactlab.it/
-http://mirror.crazynetwork.it/centos/
 http://mirrors.prometeus.net/centos/
 http://centos.koyanet.lv/centos/
 http://centos.linux.edu.lv/
@@ -327,6 +324,7 @@ http://ftp.ps.pl/pub/Linux/CentOS/
 http://ftp.vectranet.pl/centos/
 http://ftp.wcss.pl/pub/linux/centos/
 http://mirror.fccn.pt/repos/pub/CentOS/
+http://mirrors.pt/centos/
 http://mirror.isec.pt/CentOS/
 http://centos.mirror.ptisp.pt/centos/
 http://ftp.dei.uc.pt/pub/linux/CentOS/
@@ -375,6 +373,7 @@ http://ftp.csuc.cat/centos/
 http://mirror.tedra.es/CentOS/
 http://mirror.gadix.com/centos/
 http://mirror.uv.es/mirror/CentOS/
+http://mirror.librelabucm.org/CentOS/
 http://centos.mirror.minorisa.net/
 http://repo.nixval.com/CentOS/
 http://ftp.cixug.es/CentOS/
@@ -396,12 +395,11 @@ http://repo.boun.edu.tr/centos/
 http://mirror.fibersunucu.com.tr/centos/
 http://istanbul.centos-mirror.guzel.net.tr/
 http://mirror.hosting.com.tr/centos/
-http://mirror.idealhosting.net.tr/centos/
-http://ftp.itu.edu.tr/Mirror/CentOS/
 http://mirror.muvhost.com/centos/
 http://mirror.natro.com/centos/
 http://mirror.netdirekt.com.tr/centos/
 http://mirror.ni.net.tr/centos/
+http://mirror.plusweb.com.tr/centos/
 http://mirror.radoreservers.com/centos/
 http://mirror.saglayici.com/centos/
 http://centos.turhost.com/
@@ -437,21 +435,19 @@ http://mirror.vorboss.net/centos/
 http://anorien.csc.warwick.ac.uk/mirrors/centos/
 http://mirror.mhd.uk.as44574.net/mirror.centos.org/
 http://mirror.greennet.gl/centos/
-http://mirror.centos.jt.iq/
 http://mirror.earthlink.iq/centos/
 http://rep-centos-il.upress.io/
 http://centos.activecloud.co.il/
 http://centos.interhost.net.il/
-http://mirror.isoc.org.il/pub/centos/
 http://centos.spd.co.il/
 http://centos.kw.zain.com/
 http://mirror.squ.edu.om/centos/
 http://mirrors.isu.net.sa/pub/centos/
 http://mirrors.afghan-wireless.com/centos/
 http://centos.hqserv.co.il/
+http://mirrors.securehost.com/centos/
 http://mirror.cenac.ipn.mx/centos/
 http://mirrors.upr.edu/centos/
-http://mirror.optus.net/centos/
 http://mirror.aarnet.edu.au/pub/centos/
 http://centos.mirror.ausnetservers.net.au/
 http://mirror.nsw.coloau.com.au/centos/
@@ -488,7 +484,6 @@ http://mirror.netglobalis.net/centos/
 http://mirror.orbyta.com/
 http://mirror.ufro.cl/centos/
 http://ftp.inf.utfsm.cl/pub/Linux/CentOS/
-http://mirror.unimagdalena.edu.co/centos/
 http://mirrors.ucr.ac.cr/centos/
 http://mirror.cedia.org.ec/centos/
 http://mirror.epn.edu.ec/centos/
@@ -604,6 +599,7 @@ http://mirror.dal10.us.leaseweb.net/centos/
 http://repos-tx.psychz.net/centos/
 http://repos.dfw.quadranet.com/centos/
 http://yum.tamu.edu/centos/
+http://repos.hou.layerhost.com/centos/
 http://centos.mirror.lstn.net/
 http://mirror.netdepot.com/centos/
 http://mirror.dal.nexril.net/centos/
@@ -627,3 +623,4 @@ http://mirror.jaleco.com/centos/
 http://centos.s.uw.edu/centos/
 http://mirrors.vcea.wsu.edu/centos/
 http://centos.mirrors.tds.net/pub/linux/centos/
+http://mirror.cs.uwp.edu/pub/centos/
