@@ -43,7 +43,6 @@ http://centos.mirrors.estointernet.in/
 http://centos.excellmedia.net/
 http://centos.hbcse.tifr.res.in/centos/
 http://mirrors.piconets.webwerks.in/centos-mirror/
-http://mirrors.praction.in/centos/
 http://centos.mirror.snu.edu.in/centos/
 http://mirror.buana.web.id/centos/
 http://mirror.unej.ac.id/centos/
@@ -66,6 +65,7 @@ http://ftp.tsukuba.wide.ad.jp/Linux/centos/
 http://ftp.yz.yamagata-u.ac.jp/pub/linux/centos/
 http://centos.hoster.kz/centos/
 http://mirror.hoster.kz/centos/
+http://mirror.megahost.kz/centos/
 http://mirror.neolabs.kz/centos/
 http://mirror.ps.kz/centos/
 http://my.mirrors.thegigabit.com/centos/
@@ -86,6 +86,7 @@ http://mirror.pregi.net/centos/
 http://mirror.rise.ph/centos/
 http://download.nus.edu.sg/mirror/centos/
 http://mirror.aktkn.sg/centos/
+http://mirror.nus.edu.sg/centos/
 http://mirror.newmediaexpress.com/centos/
 http://centos.usonyx.net/main/
 http://mirror.vastspace.net/centos/
@@ -95,11 +96,9 @@ http://mirror.kakao.com/centos/
 http://mirror.navercorp.com/centos/
 http://mirror01.idc.hinet.net/centos/
 http://ftp.stu.edu.tw/Linux/CentOS/
-http://centos.mirror.hostinginside.com/
 http://ftp.isu.edu.tw/pub/Linux/CentOS/
 http://ftp.ksu.edu.tw/pub/CentOS/
 http://ftp.twaren.net/Linux/CentOS/
-http://centos.cs.nctu.edu.tw/
 http://ftp.tc.edu.tw/Linux/CentOS/
 http://mirrors.bangmod.cloud/centos/
 http://mirrors.bestthaihost.com/centos/
@@ -198,6 +197,7 @@ http://mirrors.standaloneinstaller.com/centos/
 http://mir01.syntis.net/CentOS/
 http://miroir.univ-paris13.fr/centos/
 http://centos.quelquesmots.fr/
+http://mirroir.wptheme.fr/centos/
 http://centos.mirror.co.ge/
 http://ge.mirror.cloud9.ge/centos/
 http://centos.grena.ge/
@@ -394,7 +394,6 @@ http://mirror.muvhost.com/centos/
 http://mirror.natro.com/centos/
 http://mirror.netdirekt.com.tr/centos/
 http://mirror.ni.net.tr/centos/
-http://mirror.niobeweb.net/centos/
 http://mirror.plusweb.com.tr/centos/
 http://mirror.provider.com.tr/centos/
 http://mirror.radoreservers.com/centos/
@@ -438,7 +437,7 @@ http://centos.activecloud.co.il/
 http://centos.interhost.net.il/
 http://mirror.isoc.org.il/pub/centos/
 http://centos.spd.co.il/
-http://mirror.squ.edu.om/centos/
+http://mirrors.isu.net.sa/pub/centos/
 http://mirrors.afghan-wireless.com/centos/
 http://centos.hqserv.co.il/
 http://mirror.cenac.ipn.mx/centos/
@@ -561,6 +560,7 @@ http://mirrors.liquidweb.com/CentOS/
 http://mirror.us-midwest-1.nexcess.net/CentOS/
 http://mirrors.umflint.edu/CentOS/
 http://mirrors.usinternet.com/centos/
+http://mirror.compevo.com/centos/
 http://mirror.mobap.edu/centos/
 http://packages.oit.ncsu.edu/centos/
 http://mirror.linux.duke.edu/pub/centos/
